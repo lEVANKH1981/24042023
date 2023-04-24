@@ -1,0 +1,16 @@
+/* background */
+body {
+   background-color: lightblue;
+}
+h1 {
+    color: rgb(214, 122, 127);
+}
+ul li a {
+    color: black;  font-weight: bold; font-size: larger;
+}
+div ul li a {
+    background-color: red;
+}
+p {
+    color: blue;
+}
